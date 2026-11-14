@@ -49,5 +49,6 @@ The main objective is to transform raw sales data into meaningful business insig
 - Interactive PivotCharts
 
 ## 📊 Dashboard Preview
-<img width="1535" height="699" alt="coffee_and_food_sales_dashboard" src="https://github.com/user-attachments/assets/7d470a5f-d766-4da5-aa57-e07a56f18e01" />
+<img width="1528" height="700" alt="dashboard_screnshot" src="https://github.com/user-attachments/assets/dafa54c4-3f98-4df9-b715-9d5e3a7e8486" />
+
 
